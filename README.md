@@ -1,8 +1,8 @@
 
-3. Getting and Cleaning Data - course project
+# Getting and Cleaning Data - course project
 
 --------------------------------------------------------------------
-1. Submitted files
+## Submitted files
 
 The submission consists of the following files. 
 
@@ -11,7 +11,7 @@ The submission consists of the following files.
 - Copybook.txt (provides description of teh otput)
 
 --------------------------------------------------------------------
-2. Files needed for running the program
+## Files needed for running the program
 
 All file locations are relative to the current working directory.
 
@@ -29,7 +29,7 @@ Additional files expected to be available for this program to work
 - train\X_train.txt
 
 --------------------------------------------------------------------
-2. Running the program
+## Running the program
 
 - please ensure all files above are available
 - start R
@@ -38,7 +38,7 @@ Additional files expected to be available for this program to work
 - run_analysis()
 
 --------------------------------------------------------------------
-3. Some notes on what the program does
+## Some notes on what the program does
 
 - The script produces a wide output of 180 rows and 81 columns.
   - 180 rows: 30 subjects * 6 activities)
@@ -48,7 +48,7 @@ Additional files expected to be available for this program to work
 - The output (outputfile.txt) was uploaded to the coursera page.
 
 ==================================================================
-Based on:
+**Based on**
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
@@ -59,7 +59,7 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-Acknowledgments:
+**Acknowledgments**
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 ==================================================================
 
