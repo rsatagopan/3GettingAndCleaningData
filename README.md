@@ -47,11 +47,12 @@ Additional files expected to be available for this program to work
 - The remaining 79 columns contain mean values of the observations for (subject, activity).
 - The output (outputfile.txt) was uploaded to the coursera page.
 
-==================================================================
+--------------------------------------------------------------------
 **Based on**
 Human Activity Recognition Using Smartphones Dataset
-`Version 1.0
-==================================================================
+version 1.0
+
+--------------------------------------------------------------------
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
@@ -61,6 +62,7 @@ www.smartlab.ws
 
 **Acknowledgments**
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
-==================================================================
+
+--------------------------------------------------------------------
 
 
